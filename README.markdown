@@ -3,7 +3,7 @@ Lokka Theme Helper Loader
 
 [Lokka](http://lokka.org/) のテーマからHelperを追加できるようにするプラグインです
 
-public/theme/*の中にhelperディレクトリを作成すると、helperディレクトリの中から*_helper.rbというファイルがrequireされます
+public/theme/hogeの中にhelperディレクトリを作成すると、helperディレクトリの中からhoge_helper.rbというファイルがrequireされます
 
 Installation
 ------------
